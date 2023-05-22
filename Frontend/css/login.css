@@ -1,0 +1,201 @@
+@font-face {
+    font-family: 'Jost';
+    src: url('../fonts/Jost/Jost-VariableFont_wght.ttf');
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter/Inter-VariableFont_slnt\,wght.ttf');
+}
+@font-face {
+    font-family: 'Rockwell';
+    src: url('../fonts/Rockwell/rockb.ttf');
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Rockwell;
+}
+body{
+    background: url("../images/bg_log.jpg") no-repeat center/cover fixed #888;
+    background-blend-mode:multiply ;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+
+.container{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 15px 0 15px;
+    
+}
+
+header{
+    color: #fff;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 10px 0;
+}
+
+.input-field .input{
+    height: 45px;
+    width: 87%;
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 15px;
+    padding: 0 0 0 45px;
+    background: rgba(255,255,255,0.1);
+    outline: none;
+    /* margin-bottom: 10px; */
+}
+i{
+    position: relative;
+    top: -33px;
+    left: 17px;
+    color: #fff;
+}
+::-webkit-input-placeholder{
+    color: #fff;
+}
+.submit{
+    border: none;
+    border-radius: 30px;
+    font-size: 15px;
+    height: 45px;
+    outline: none;
+    width: 100%;
+    color: black;
+    background: #f90;
+    cursor: pointer;
+    transition: .3s ;   
+    
+}
+.submit:hover{
+    box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
+    background: #f905;
+}
+.two-col{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #fff;
+    font-size: small;
+    margin-top: 10px;
+}
+.one{
+    display: flex;
+}
+label a{
+    text-decoration: none;
+    color: #fff;
+}
+.log{
+    display: flex;
+    margin-top: 20px;
+}
+
+/* forget pass */
+
+.F-container{
+    width: 350px;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    padding: 0 15px 0 15px;
+    background: #fff3;
+    position: absolute;
+    bottom: 50px;
+}
+
+.F-top img{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    margin:auto;
+    
+}
+.F-top h1{
+    color: #f90;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 10px 0;
+    margin: 15px 0;
+}
+.F-top p{
+    color: #000;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 10px 0;
+    margin: 15px 0;
+}
+.F-input-field .F-input{
+    height: 45px;
+    width: 87%;
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 15px;
+    padding: 0 0 0 45px;
+    background: rgba(255,255,255,0.1);
+    outline: none;
+    /* margin-bottom: 10px; */
+}
+i{
+    position: relative;
+    top: -33px;
+    left: 17px;
+    color: #fff;
+}
+::-webkit-input-placeholder{
+    color: #fff;
+}
+.F-submit{
+    border: none;
+    border-radius: 30px;
+    font-size: 15px;
+    height: 45px;
+    outline: none;
+    width: 60%;
+    color: black;
+    background: #f90;
+    cursor: pointer;
+    transition: .3s ;
+    position: relative;
+    left: 70px;
+    
+    
+}
+.F-F-submit:hover{
+    box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.2);
+    background: #f905;
+}
+.F-two-col{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #888;
+    font-size: 14px;
+    margin-top: 40px;
+    
+}
+.F-one{
+    position: absolute;
+    right: 100px;
+}
+.F-two{
+    position: absolute;
+    left: 100px;
+    
+}
+label a{
+    text-decoration: none;
+    color: #000;
+}
