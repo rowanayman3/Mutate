@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yfGDcP2hlLAsjzIi5xduHDioolh2yiUsrj1R3OCG6sA=",
+  "Hash": "K5Cx6q/SKBkrfU9O+Y6nYmA5A7v1z0+6mSlFBQFYeIg=",
   "Source": "cms 2",
   "BasePath": "_content/cms 2",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "cms 2\\wwwroot",
       "Source": "cms 2",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\cms 2.styles.css",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\cms 2.styles.css",
       "SourceId": "cms 2",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "cms 2.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\mvc\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\cms 2.styles.css"
+      "OriginalItemSpec": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\bundle\\cms 2.styles.css"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\cms 2.bundle.scp.css",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\cms 2.bundle.scp.css",
       "SourceId": "cms 2",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "cms 2.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\mvc\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\cms 2.bundle.scp.css"
+      "OriginalItemSpec": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\cms 2.bundle.scp.css"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\css\\login.css",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\css\\login.css",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\css\\style.css",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\css\\style.css",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\favicon.ico",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\favicon.ico",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\Inter.zip",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\Inter.zip",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Inter/Inter.zip",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Inter\\Inter.zip"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Inter/Inter-VariableFont_slnt,wght.ttf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\OFL.txt",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\OFL.txt",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Inter/OFL.txt",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Inter\\OFL.txt"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\README.txt",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\README.txt",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Inter/README.txt",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Inter\\README.txt"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Black.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Black.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Inter/static/Inter-Black.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Inter\\static\\Inter-Black.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Bold.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Bold.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Inter/static/Inter-Bold.ttf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Inter\\static\\Inter-Bold.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-ExtraBold.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-ExtraBold.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Inter/static/Inter-ExtraBold.ttf",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Inter\\static\\Inter-ExtraBold.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-ExtraLight.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-ExtraLight.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Inter/static/Inter-ExtraLight.ttf",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Inter\\static\\Inter-ExtraLight.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Light.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Light.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Inter/static/Inter-Light.ttf",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Inter\\static\\Inter-Light.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Medium.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Medium.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Inter/static/Inter-Medium.ttf",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Inter\\static\\Inter-Medium.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Regular.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Regular.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Inter/static/Inter-Regular.ttf",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Inter\\static\\Inter-Regular.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-SemiBold.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-SemiBold.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Inter/static/Inter-SemiBold.ttf",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Inter\\static\\Inter-SemiBold.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Thin.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Thin.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Inter/static/Inter-Thin.ttf",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Inter\\static\\Inter-Thin.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\Jost.zip",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\Jost.zip",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/Jost.zip",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\Jost.zip"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\Jost-Italic-VariableFont_wght.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\Jost-Italic-VariableFont_wght.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/Jost-Italic-VariableFont_wght.ttf",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\Jost-Italic-VariableFont_wght.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\Jost-VariableFont_wght.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\Jost-VariableFont_wght.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/Jost-VariableFont_wght.ttf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\Jost-VariableFont_wght.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\OFL.txt",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\OFL.txt",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/OFL.txt",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\OFL.txt"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\README.txt",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\README.txt",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/README.txt",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\README.txt"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Black.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Black.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-Black.ttf",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-Black.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-BlackItalic.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-BlackItalic.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-BlackItalic.ttf",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-BlackItalic.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Bold.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Bold.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-Bold.ttf",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-Bold.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-BoldItalic.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-BoldItalic.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-BoldItalic.ttf",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-BoldItalic.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraBold.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraBold.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-ExtraBold.ttf",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-ExtraBold.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraBoldItalic.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraBoldItalic.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-ExtraBoldItalic.ttf",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-ExtraBoldItalic.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraLight.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraLight.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-ExtraLight.ttf",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-ExtraLight.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraLightItalic.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraLightItalic.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-ExtraLightItalic.ttf",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-ExtraLightItalic.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Italic.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Italic.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-Italic.ttf",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-Italic.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Light.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Light.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-Light.ttf",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-Light.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-LightItalic.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-LightItalic.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-LightItalic.ttf",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-LightItalic.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Medium.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Medium.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-Medium.ttf",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-Medium.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-MediumItalic.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-MediumItalic.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-MediumItalic.ttf",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-MediumItalic.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Regular.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Regular.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-Regular.ttf",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-Regular.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-SemiBold.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-SemiBold.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-SemiBold.ttf",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-SemiBold.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-SemiBoldItalic.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-SemiBoldItalic.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-SemiBoldItalic.ttf",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-SemiBoldItalic.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Thin.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Thin.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-Thin.ttf",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-Thin.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ThinItalic.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ThinItalic.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Jost/static/Jost-ThinItalic.ttf",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Jost\\static\\Jost-ThinItalic.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\ROCK.TTF",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\ROCK.TTF",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Rockwell/ROCK.TTF",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Rockwell\\ROCK.TTF"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\rockb.png",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\rockb.png",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Rockwell/rockb.png",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Rockwell\\rockb.png"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\rockb.ttf",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\rockb.ttf",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Rockwell/rockb.ttf",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Rockwell\\rockb.ttf"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\Rockwell-Font.zip",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\Rockwell-Font.zip",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Rockwell/Rockwell-Font.zip",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Rockwell\\Rockwell-Font.zip"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\sharefonts.net.txt",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\sharefonts.net.txt",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Rockwell/sharefonts.net.txt",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Rockwell\\sharefonts.net.txt"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Tajawal\\Tajawal.zip",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Tajawal\\Tajawal.zip",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "fonts/Tajawal/Tajawal.zip",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Tajawal\\Tajawal.zip"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\bg.jpg",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\bg.jpg",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "images/bg.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg.jpg"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\bg_log.jpg",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\bg_log.jpg",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "images/bg_log.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg_log.jpg"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\email_icon.png",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\email_icon.png",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "images/email_icon.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\email_icon.png"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\logo.png",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\logo.png",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\Mutate2.png",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\Mutate2.png",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "images/Mutate2.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Mutate2.png"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\password_icon.png",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\password_icon.png",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "images/password_icon.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\password_icon.png"
     },
     {
-      "Identity": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\usr_profile_icon.png",
+      "Identity": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\usr_profile_icon.png",
       "SourceId": "cms 2",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\",
+      "ContentRoot": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\",
       "BasePath": "_content/cms 2",
       "RelativePath": "images/usr_profile_icon.png",
       "AssetKind": "All",

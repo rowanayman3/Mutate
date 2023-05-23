@@ -17,7 +17,19 @@ namespace cms_2.Controllers
         {
             return View();
         }
-        public IActionResult Login()
+        
+        [Route("login")]
+        public IActionResult login()
+        {
+            return View();
+        }
+        [Route("register")]
+        public IActionResult register()
+        {
+            return View();
+        }
+        [Route("/login/forget_password")]
+        public IActionResult forgetPass()
         {
             return View();
         }

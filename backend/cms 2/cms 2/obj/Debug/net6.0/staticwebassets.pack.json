@@ -1,215 +1,215 @@
 {
   "Files": [
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\cms 2.bundle.scp.css",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\cms 2.bundle.scp.css",
       "PackagePath": "staticwebassets\\cms 2.bundle.scp.css"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\css\\login.css",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\css\\style.css",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\favicon.ico",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf",
       "PackagePath": "staticwebassets\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\Inter.zip",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\Inter.zip",
       "PackagePath": "staticwebassets\\fonts\\Inter\\Inter.zip"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\OFL.txt",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\OFL.txt",
       "PackagePath": "staticwebassets\\fonts\\Inter\\OFL.txt"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\README.txt",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\README.txt",
       "PackagePath": "staticwebassets\\fonts\\Inter\\README.txt"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Black.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Black.ttf",
       "PackagePath": "staticwebassets\\fonts\\Inter\\static\\Inter-Black.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Bold.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Bold.ttf",
       "PackagePath": "staticwebassets\\fonts\\Inter\\static\\Inter-Bold.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-ExtraBold.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-ExtraBold.ttf",
       "PackagePath": "staticwebassets\\fonts\\Inter\\static\\Inter-ExtraBold.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-ExtraLight.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-ExtraLight.ttf",
       "PackagePath": "staticwebassets\\fonts\\Inter\\static\\Inter-ExtraLight.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Light.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Light.ttf",
       "PackagePath": "staticwebassets\\fonts\\Inter\\static\\Inter-Light.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Medium.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Medium.ttf",
       "PackagePath": "staticwebassets\\fonts\\Inter\\static\\Inter-Medium.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Regular.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Regular.ttf",
       "PackagePath": "staticwebassets\\fonts\\Inter\\static\\Inter-Regular.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-SemiBold.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-SemiBold.ttf",
       "PackagePath": "staticwebassets\\fonts\\Inter\\static\\Inter-SemiBold.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Thin.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Inter\\static\\Inter-Thin.ttf",
       "PackagePath": "staticwebassets\\fonts\\Inter\\static\\Inter-Thin.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\Jost-Italic-VariableFont_wght.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\Jost-Italic-VariableFont_wght.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\Jost-Italic-VariableFont_wght.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\Jost-VariableFont_wght.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\Jost-VariableFont_wght.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\Jost-VariableFont_wght.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\Jost.zip",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\Jost.zip",
       "PackagePath": "staticwebassets\\fonts\\Jost\\Jost.zip"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\OFL.txt",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\OFL.txt",
       "PackagePath": "staticwebassets\\fonts\\Jost\\OFL.txt"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\README.txt",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\README.txt",
       "PackagePath": "staticwebassets\\fonts\\Jost\\README.txt"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Black.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Black.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-Black.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-BlackItalic.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-BlackItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-BlackItalic.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Bold.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Bold.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-Bold.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-BoldItalic.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-BoldItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-BoldItalic.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraBold.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraBold.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-ExtraBold.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraBoldItalic.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraBoldItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-ExtraBoldItalic.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraLight.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraLight.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-ExtraLight.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraLightItalic.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ExtraLightItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-ExtraLightItalic.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Italic.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Italic.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-Italic.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Light.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Light.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-Light.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-LightItalic.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-LightItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-LightItalic.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Medium.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Medium.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-Medium.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-MediumItalic.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-MediumItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-MediumItalic.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Regular.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Regular.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-Regular.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-SemiBold.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-SemiBold.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-SemiBold.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-SemiBoldItalic.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-SemiBoldItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-SemiBoldItalic.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Thin.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-Thin.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-Thin.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ThinItalic.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Jost\\static\\Jost-ThinItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\Jost\\static\\Jost-ThinItalic.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\ROCK.TTF",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\ROCK.TTF",
       "PackagePath": "staticwebassets\\fonts\\Rockwell\\ROCK.TTF"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\Rockwell-Font.zip",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\Rockwell-Font.zip",
       "PackagePath": "staticwebassets\\fonts\\Rockwell\\Rockwell-Font.zip"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\rockb.png",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\rockb.png",
       "PackagePath": "staticwebassets\\fonts\\Rockwell\\rockb.png"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\rockb.ttf",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\rockb.ttf",
       "PackagePath": "staticwebassets\\fonts\\Rockwell\\rockb.ttf"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\sharefonts.net.txt",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Rockwell\\sharefonts.net.txt",
       "PackagePath": "staticwebassets\\fonts\\Rockwell\\sharefonts.net.txt"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\fonts\\Tajawal\\Tajawal.zip",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\fonts\\Tajawal\\Tajawal.zip",
       "PackagePath": "staticwebassets\\fonts\\Tajawal\\Tajawal.zip"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\Mutate2.png",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\Mutate2.png",
       "PackagePath": "staticwebassets\\images\\Mutate2.png"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\bg.jpg",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\bg.jpg",
       "PackagePath": "staticwebassets\\images\\bg.jpg"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\bg_log.jpg",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\bg_log.jpg",
       "PackagePath": "staticwebassets\\images\\bg_log.jpg"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\email_icon.png",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\email_icon.png",
       "PackagePath": "staticwebassets\\images\\email_icon.png"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\logo.png",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\password_icon.png",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\password_icon.png",
       "PackagePath": "staticwebassets\\images\\password_icon.png"
     },
     {
-      "Id": "F:\\mvc\\cms 2\\cms 2\\wwwroot\\images\\usr_profile_icon.png",
+      "Id": "G:\\test1\\Mutate-CMS\\Mutate-CMS\\backend\\cms 2\\cms 2\\wwwroot\\images\\usr_profile_icon.png",
       "PackagePath": "staticwebassets\\images\\usr_profile_icon.png"
     },
     {

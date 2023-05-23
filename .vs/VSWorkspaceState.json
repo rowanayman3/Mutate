@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\backend",
+    "\\backend\\cms 2"
   ],
-  "SelectedNode": "\\G:\\test1\\Mutate-CMS\\Mutate-CMS",
+  "SelectedNode": "\\backend\\cms 2\\cms 2.csproj",
   "PreviewInSolutionExplorer": false
 }
