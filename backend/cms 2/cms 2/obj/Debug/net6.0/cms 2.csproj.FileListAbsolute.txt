@@ -1,0 +1,62 @@
+F:\mvc\cms 2\cms 2\bin\Debug\net6.0\appsettings.Development.json
+F:\mvc\cms 2\cms 2\bin\Debug\net6.0\appsettings.json
+F:\mvc\cms 2\cms 2\bin\Debug\net6.0\cms 2.staticwebassets.runtime.json
+F:\mvc\cms 2\cms 2\bin\Debug\net6.0\cms 2.exe
+F:\mvc\cms 2\cms 2\bin\Debug\net6.0\cms 2.deps.json
+F:\mvc\cms 2\cms 2\bin\Debug\net6.0\cms 2.runtimeconfig.json
+F:\mvc\cms 2\cms 2\bin\Debug\net6.0\cms 2.dll
+F:\mvc\cms 2\cms 2\bin\Debug\net6.0\cms 2.pdb
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\cms 2.csproj.AssemblyReference.cache
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\cms 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\cms 2.AssemblyInfoInputs.cache
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\cms 2.AssemblyInfo.cs
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\cms 2.csproj.CoreCompileInputs.cache
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\cms 2.MvcApplicationPartsAssemblyInfo.cache
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\cms 2.RazorAssemblyInfo.cache
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\cms 2.RazorAssemblyInfo.cs
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\staticwebassets.build.json
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\staticwebassets.development.json
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\scopedcss\bundle\cms 2.styles.css
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\scopedcss\projectbundle\cms 2.bundle.scp.css
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\cms 2.dll
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\refint\cms 2.dll
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\cms 2.pdb
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\cms 2.genruntimeconfig.cache
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\ref\cms 2.dll
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\staticwebassets\msbuild.cms 2.Microsoft.AspNetCore.StaticWebAssets.props
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\staticwebassets\msbuild.build.cms 2.props
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.cms 2.props
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.cms 2.props
+F:\mvc\cms 2\cms 2\obj\Debug\net6.0\staticwebassets.pack.json
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\bin\Debug\net6.0\appsettings.Development.json
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\bin\Debug\net6.0\appsettings.json
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\bin\Debug\net6.0\cms 2.staticwebassets.runtime.json
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\bin\Debug\net6.0\cms 2.exe
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\bin\Debug\net6.0\cms 2.deps.json
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\bin\Debug\net6.0\cms 2.runtimeconfig.json
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\bin\Debug\net6.0\cms 2.dll
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\bin\Debug\net6.0\cms 2.pdb
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\cms 2.csproj.AssemblyReference.cache
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\cms 2.GeneratedMSBuildEditorConfig.editorconfig
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\cms 2.AssemblyInfoInputs.cache
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\cms 2.AssemblyInfo.cs
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\cms 2.csproj.CoreCompileInputs.cache
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\cms 2.MvcApplicationPartsAssemblyInfo.cache
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\cms 2.RazorAssemblyInfo.cache
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\cms 2.RazorAssemblyInfo.cs
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\staticwebassets\msbuild.cms 2.Microsoft.AspNetCore.StaticWebAssets.props
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\staticwebassets\msbuild.build.cms 2.props
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.cms 2.props
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.cms 2.props
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\staticwebassets.pack.json
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\staticwebassets.build.json
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\staticwebassets.development.json
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\scopedcss\bundle\cms 2.styles.css
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\scopedcss\projectbundle\cms 2.bundle.scp.css
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\cms 2.dll
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\refint\cms 2.dll
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\cms 2.pdb
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\cms 2.genruntimeconfig.cache
+G:\test1\Mutate-CMS\Mutate-CMS\backend\cms 2\cms 2\obj\Debug\net6.0\ref\cms 2.dll

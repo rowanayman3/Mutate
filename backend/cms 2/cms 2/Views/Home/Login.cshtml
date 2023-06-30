@@ -1,0 +1,81 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LogIn</title>
+    <link rel="stylesheet" href="/css/login.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    @* its from me *@
+    @*
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#loginForm").submit(function (e) {
+                e.preventDefault();
+
+                var loginData = {
+                    Username: $("#username").val(),
+                    Password: $("#password").val()
+                };
+
+                $.ajax({
+                    url: "/accounts/login",
+                    type: "POST",
+                    contentType: "application/json",
+                    data: JSON.stringify(loginData),
+                    success: function (response) {
+                        // Handle success response
+                        console.log(response);
+                    },
+                    error: function (xhr, status, error) {
+                        // Handle error response
+                        console.log(xhr.responseText);
+                    }
+                });
+            });
+        });
+    </script>
+    *@
+</head>
+
+<body>
+    <main>
+        <form method="post" actoin="/accounts/login">
+        <div class="container">
+            <div class="top">
+                <header>Login</header>
+            </div>
+            <div class="input-field">
+                <input type="text" class="input" placeholder="Username" id="">
+                <i class='bx bx-user'></i>
+            </div>
+
+            <div class="input-field">
+                <input type="Password" class="input" placeholder="Password" id="">
+                <i class='bx bx-lock-alt'></i>
+            </div>
+            <div class="input-field">
+                <input type="submit" class="submit" value="Login" id="">
+            </div>
+            <div class="two-col">
+                <div class="one">
+                    <label><a href="register">Don't have an account ?</a></label>
+                </div>
+                <div class="two">
+                    @* <label><a href="/home/login/forgetPass">Forgot password?</a></label> *@
+                    <label> <a href="@Url.Action("forgetPass", "Home", new { area = "", controller = "Home", action = "forgetPass" })">Forgot Password?</a> </label>
+
+                   @* <label> <a asp-controller="Home" asp-action="forgetPass">Forgot Password?</a></label> *@
+
+                </div>
+            </div>
+        </div>
+        </form>
+    </main>
+</body>
+
+</html>
