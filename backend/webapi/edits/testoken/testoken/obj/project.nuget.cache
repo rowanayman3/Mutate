@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "6UOk1CcsrJdeEPYq42CYb2jvNJ4q4m0qACUIJSysl1FrkEw97N2KFiBZpAm3J4geKLAMJvfa/L9lI2cLUo6KjA==",
+  "dgSpecHash": "VQwESp76kiX1AlkApq1m3ODVY2B0WX4Ig/tPPs8zPJHtLWGNuOsEbzsxKZJRrq9bHZLHX3NTIx/p9LujYzHzpw==",
   "success": true,
-  "projectFilePath": "F:\\.NET backend course\\tests\\testoken\\testoken\\external_end.csproj",
+  "projectFilePath": "G:\\test1\\Mutate-CMS\\backend\\webapi\\edits\\testoken\\testoken\\external_end.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hadye\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\mailkit\\4.1.0\\mailkit.4.1.0.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.19\\microsoft.aspnetcore.authentication.jwtbearer.6.0.19.nupkg.sha512",
+    "C:\\Users\\hadye\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.18\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.18.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

@@ -10,6 +10,7 @@
         "dependencies": {
           "MailKit": "4.1.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.19",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.18",
           "Microsoft.EntityFrameworkCore": "6.0.19",
           "Microsoft.EntityFrameworkCore.Design": "6.0.19",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.19",
@@ -58,6 +59,17 @@
           "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
             "assemblyVersion": "6.0.19.0",
             "fileVersion": "6.0.1923.31806"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/6.0.18": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.19"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
+            "assemblyVersion": "6.0.18.0",
+            "fileVersion": "6.0.1823.26909"
           }
         }
       },
@@ -691,6 +703,13 @@
       "sha512": "sha512-gdSF/N7ETakCeVONpiqHivv1aUY8DYXn/9CAi9UJuauSeRK0l0AM7kG5gB+e2zkl4o9zxrS6oVfkWT4lYLxCZw==",
       "path": "microsoft.aspnetcore.authentication.jwtbearer/6.0.19",
       "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.6.0.19.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/6.0.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KdncONt8u3Dz7kppUzl2QWlKz5u6248tvVm+nAqdXs99OWh6eQx21yY4QsAvRQ6qmlc7SmtDb3tPCh4rHKrIjA==",
+      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/6.0.18",
+      "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.18.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",

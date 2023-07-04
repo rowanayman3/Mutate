@@ -63,6 +63,25 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/6.0.18": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.18"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -1201,6 +1220,21 @@
         "lib/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
         "microsoft.aspnetcore.authentication.jwtbearer.6.0.19.nupkg.sha512",
         "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/6.0.18": {
+      "sha512": "KdncONt8u3Dz7kppUzl2QWlKz5u6248tvVm+nAqdXs99OWh6eQx21yY4QsAvRQ6qmlc7SmtDb3tPCh4rHKrIjA==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/6.0.18",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll",
+        "lib/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.xml",
+        "microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.18.nupkg.sha512",
+        "microsoft.aspnetcore.diagnostics.entityframeworkcore.nuspec"
       ]
     },
     "Microsoft.CSharp/4.5.0": {
@@ -3022,6 +3056,7 @@
     "net6.0": [
       "MailKit >= 4.1.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.19",
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.18",
       "Microsoft.EntityFrameworkCore >= 6.0.19",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.19",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.19",
@@ -3039,11 +3074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\.NET backend course\\tests\\testoken\\testoken\\external_end.csproj",
+      "projectUniqueName": "G:\\test1\\Mutate-CMS\\backend\\webapi\\edits\\testoken\\testoken\\external_end.csproj",
       "projectName": "external_end",
-      "projectPath": "F:\\.NET backend course\\tests\\testoken\\testoken\\external_end.csproj",
+      "projectPath": "G:\\test1\\Mutate-CMS\\backend\\webapi\\edits\\testoken\\testoken\\external_end.csproj",
       "packagesPath": "C:\\Users\\hadye\\.nuget\\packages\\",
-      "outputPath": "F:\\.NET backend course\\tests\\testoken\\testoken\\obj\\",
+      "outputPath": "G:\\test1\\Mutate-CMS\\backend\\webapi\\edits\\testoken\\testoken\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3083,6 +3118,10 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
             "version": "[6.0.19, )"
+          },
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[6.0.18, )"
           },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",

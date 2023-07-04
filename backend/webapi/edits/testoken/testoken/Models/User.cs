@@ -1,4 +1,5 @@
-﻿using System.Reflection.PortableExecutable;
+﻿using external_end.Models;
+using System.Reflection.PortableExecutable;
 
 namespace testoken.Models
 {
@@ -28,6 +29,7 @@ namespace testoken.Models
 
         public DateTime TokenEnd { get; set; }
 
+        public ICollection<InvalidateToken> InvalidTokens { get; set; } = new List<InvalidateToken>();
 
     }
 }

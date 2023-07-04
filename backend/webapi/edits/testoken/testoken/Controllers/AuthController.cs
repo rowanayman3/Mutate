@@ -1,4 +1,5 @@
-﻿using MailKit.Net.Smtp;
+﻿using external_end.Models;
+using MailKit.Net.Smtp;
 using MailKit.Security;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -306,6 +307,27 @@ namespace testoken.Controllers
 
 
         }
+        [HttpPost("logout")]
+        public async Task<IActionResult> Logout()
+        {
+            string token = Request.Headers["Authorization"].FirstOrDefault()?.Split(" ").Last();
+            var invalidToken = new InvalidateToken
+            {
+                Token = token,
+                InvalidateAt = DateTime.Now
+            };
+
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.InvalidTokens.Any(t => t.Token == token));
+
+            if (user != null)
+            {
+                user.InvalidTokens.Add(invalidToken);
+                await _context.SaveChangesAsync();
+            }
+
+            return Ok("logout fine");
+        }
+
 
     }
 }
