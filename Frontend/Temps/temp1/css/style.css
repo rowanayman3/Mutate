@@ -297,3 +297,8 @@ input.qtyminus { width:25px; height:25px;}
     .quantity.buttons_added .minus:focus,
    .quantity.buttons_added .plus:focus {
     outline: none; }
+
+    .social-media .icon i
+    {
+      font-size: 20px;
+    }
