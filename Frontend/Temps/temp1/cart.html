@@ -1,0 +1,152 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="css/cart.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap"
+      rel="stylesheet"
+    />
+    <title>MUTATE</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg bg-light">
+      <div class="container">
+        <a class="navbar-brand" href="#">MUTATE</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav m-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Home </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Profile </a>
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Products
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">laptop</a></li>
+                <li><a class="dropdown-item" href="#">Hard diak</a></li>
+                <li><hr class="dropdown-divider" /></li>
+                <li><a class="dropdown-item" href="#">laptop stand</a></li>
+              </ul>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="#">Cart</a>
+            </li>
+          </ul>
+          <ul class="navbar-nav mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link" href="#">SignUP </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">SignIn</a>
+            </li>
+            <li class="nav-item">
+              <div id="cart" class="cart py-2" data-totalitems="0">
+                <i class="fas fa-shopping-cart text-green py-1"></i>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <section class="py-5">
+      <div class="container">
+        <div class="wrapper wrapper-content animated fadeInRight">
+          <div class="row">
+            <div class="col-md-9">
+              <div class="ibox">
+                <div class="ibox-title">
+                  <span class="pull-right">(<strong>1</strong>) items</span>
+                  <h5>Shopping Cart :</h5>
+                </div>
+                <div class="ibox-content">
+                  <div class="table-responsive">
+                    <table class="table shoping-cart-table">
+                      <tbody>
+                        <tr>
+                          <td width="90">
+                            <div class="cart-product-imitation">
+                              <img
+                                src="img/51ch2S4oPnL._AC_UL320_ - Copy.jpg"
+                                class="w-100"
+                                alt=""
+                                srcset=""
+                              />
+                            </div>
+                          </td>
+                          <td class="desc">
+                            <h3 class="text-navy">Lenovo V15 Laptop</h3>
+                            <p class="small">
+                              About this item Lenovo V15 Laptop - Intel Core
+                              i3-10110U, 4GB RAM, 256GB SSD PCIe NVMe,
+                              Integrated Intel UHD Graphics, 15.6" FHD
+                              (1920x1080) TN 220nits Anti-glare, Dos - Iron Grey
+                            </p>
+                            <dl class="m-b-none">
+                              <h3 class="text-navy">Description lists</h3>
+                              <dd>
+                                A description list is perfect for defining
+                                terms.
+                              </dd>
+                            </dl>
+                            <div class="m-t-sm">
+                              <a href="#" class="text-muted"
+                                ><i class="fa fa-trash"></i> Remove item</a
+                              >
+                            </div>
+                          </td>
+
+                          <td>
+                            <p>9,999 EGP</p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+                <div class="ibox-content">
+                  <button class="btn btn-green pull-right">
+                    <i class="fa fa fa-shopping-cart"></i> Checkout
+                  </button>
+                  <button class="btn btn-white">
+                    <i class="fa fa-arrow-left"></i>
+                    <a href="index.html" class="text-dark">Continue shopping</a>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
