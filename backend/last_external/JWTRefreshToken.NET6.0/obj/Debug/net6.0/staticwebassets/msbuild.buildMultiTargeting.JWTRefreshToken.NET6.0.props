@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JWTRefreshToken.NET6.0.props" />
+</Project>
