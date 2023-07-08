@@ -1,0 +1,31 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.navbar-brand{
+    color: #0067b3;
+}
+
+.navbar-brand:hover{
+    color: #0067b3;
+}
+
+.nav-link{
+    color: #00b1ac;
+}
+.hr{
+    background-color: #20c997;
+    width: 100px;
+    height: 1.5px;
+    margin: auto;
+    position: relative;
+    bottom: 140;
+}
+
+.safe{
+    color: #00b1ac;
+}
+a{
+    text-decoration:none
+}

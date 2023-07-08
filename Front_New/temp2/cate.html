@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SuperMarket</title>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+  />
+  <link rel="stylesheet" href="cate.css" />
+</head>
+<body>
+<!-- HEADER -->
+<header>
+  <div class="header-1">
+    <a href="./cate.html" class="logo"
+      >SuperMarket</a
+    >
+  </div>
+
+  <div class="header-2">
+    <nav class="navbar">
+      <a href="./home.html">Home</a
+      >
+      <a
+        href="./cate.html">Categories</a>
+      <a href="./cart.html">Cart</a>
+
+    </nav>
+
+    <div class="icons">
+      <a href="./cart.html" class="fas fa-shopping-cart"></a>
+      <a href="#">Sign in</a>
+      <a href="#">Sign up</a>
+    </div>
+  </div>
+</header>
+
+<section class="product" id="product">
+  <h1 class="heading"><span>Fish Products</span></h1>
+  <div class="box-container">
+
+    <div class="box">
+      <img src="./img/fish.jpg" class="responsive"/>
+      <h3>FISH TYPE 1</h3>
+      <div class="price">100</div>
+
+      <a href="#" class="btn" onclick="addToCart('Fish Type 1', 100, './img/fish.jpg')">Add To Cart</a>
+    </div>
+
+    <div class="box">
+      <img src="./img/fish.jpg" class="responsive"/>
+      <h3>FISH TYPE 2</h3>
+      <div class="price">200</div>
+
+      <a href="#" class="btn" onclick="addToCart('Fish Type 2', 200, './img/fish.jpg')">Add To Cart</a>
+    </div>
+
+    <!-- Add more fish boxes as needed -->
+
+  </div>
+</section>
+
+<section class="product" id="product">
+  <h1 class="heading"><span>Meat Products</span></h1>
+  <div class="box-container">
+
+    <div class="box">
+      <img src="./img/meat.jpg" class="responsive"/>
+      <h3>MEAT TYPE 1</h3>
+      <div class="price">300</div>
+
+      <a href="#" class="btn" onclick="addToCart('Meat Type 1', 300, './img/meat.jpg')">Add To Cart</a>
+    </div>
+
+    <div class="box">
+      <img src="./img/meat.jpg" class="responsive"/>
+      <h3>MEAT TYPE 2</h3>
+      <div class="price">400</div>
+
+      <a href="#" class="btn" onclick="addToCart('Meat Type 2', 400, './img/meat.jpg')">Add To Cart</a>
+    </div>
+
+    <!-- Add more meat boxes as needed -->
+
+  </div>
+</section>
+
+<section class="product" id="product">
+  <h1 class="heading"><span>Vegetables Products</span></h1>
+  <div class="box-container">
+
+    <div class="box">
+      <img src="./img/veg.jpg" class="responsive"/>
+      <h3>VEGETABLES TYPE 1</h3>
+      <div class="price">50</div>
+
+      <a href="#" class="btn" onclick="addToCart('Vegetables Type 1', 50, './img/veg.jpg')">Add To Cart</a>
+    </div>
+
+    <div class="box">
+      <img src="./img/veg.jpg" class="responsive"/>
+      <h3>VEGETABLES TYPE 2</h3>
+      <div class="price">60</div>
+
+      <a href="#" class="btn" onclick="addToCart('Vegetables Type 2', 60, './img/veg.jpg')">Add To Cart</a>
+    </div>
+
+    <!-- Add more vegetable boxes as needed -->
+
+  </div>
+</section>
+
+<script src="js/cate.js"></script>
+
+</body>
+</html>

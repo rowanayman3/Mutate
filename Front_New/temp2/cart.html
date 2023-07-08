@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/all.min.css" />
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="cate.css" />
+  <link rel="stylesheet" href="css/cart.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+  <title>COMPANY-NAME</title>
+  <style>
+    .remove-button {
+      padding: 0.25rem 0.5rem;
+      font-size: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="header-1">
+    <a href="./cate.html" class="logo">SuperMarket</a>
+  </div>
+
+  <div class="header-2">
+    <nav class="navbar">
+      <a href="./home.html">Home</a>
+      <a href="./cate.html">Categories</a>
+      <a href="./cart.html">Cart</a>
+    </nav>
+
+    <div class="icons">
+      <a href="#" class="fas fa-shopping-cart"></a>
+      <a href="#">Sign in</a>
+      <a href="#">Sign up</a>
+    </div>
+  </div>
+
+  <section class="py-5">
+    <div class="container">
+      <div class="wrapper wrapper-content animated fadeInRight">
+        <div class="row">
+          <div class="col-md-9">
+            <div class="ibox">
+              <div class="ibox-title">
+                <span class="pull-right">(<strong id="item-count">0</strong>) items</span>
+                <h5>Shopping Cart:</h5>
+              </div>
+              <div class="ibox-content">
+                <table class="table">
+                  <thead>
+                    <tr>
+                      <th>Image</th>
+                      <th>Name</th>
+                      <th>Price</th>
+                      <th>Action</th>
+                    </tr>
+                  </thead>
+                  <tbody id="cart-items">
+                    <!-- Cart items will be dynamically inserted here -->
+                  </tbody>
+                </table>
+                <div class="total-price">Total Price: $<span id="total-price">0</span></div>
+                <button class="btn btn-green pull-right">
+                  <i class="fa fa fa-shopping-cart"></i> Checkout
+                </button>
+                <button class="btn btn-white">
+                  <i class="fa fa-arrow-left"></i>
+                  <a href="./cate.html" class="text-dark">Continue shopping</a>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script src="js/bootstrap.bundle.min.js"></script>
+  <script src="js/cart.js"></script>
+</body>
+</html>

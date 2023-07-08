@@ -1,0 +1,92 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap"
+      rel="stylesheet"/>
+    <title>Profile</title>
+  </head>
+
+  <body>
+  <nav class="navbar navbar-expand-lg bg-light">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">MUTATE</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav m-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" href="../home/home.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../profile/profile.html">Profile</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../products/product.html">Products</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="../about/about.html">About us</a>
+            </li>
+          <li class="nav-item">
+              <a class="nav-link" href="../contact/contact.html">Contact us</a>
+            </li>
+        </ul>
+        <ul class="navbar-nav mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" href="../signin/signin.html">Sign in</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../signup/signup.html">Sign up</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <br><br>
+  <section>
+    <div class="container p-4 bg-light">
+        <form action="" class="">
+            <div class="row d-block g-4">
+                <div class="col-lg-5 col-md-8 mx-auto">
+                    <label >Name</label>
+                    <input type="text" class="form-control" placeholder="Enter Your Name" id="UserName" required>
+                </div>
+                <div class="col-lg-5 col-md-8 mx-auto">
+                  <label>Email</label>
+                    <input type="email" class="form-control" placeholder="Enter Your Email" id="UserEmail" required>
+                </div>
+                <div class="col-lg-5 col-md-8 mx-auto">
+                  <label>UserName</label>
+                    <input type="username" class="form-control" placeholder="Enter Your UserName" id="UseruserName" required>
+                </div>
+                <div class="col-lg-5 col-md-8 mx-auto">
+                  <label >Password</label>  
+                  <input type="password" class="form-control" placeholder="Enter Your Password" id="UserPassword" required>
+                </div>
+                
+            </div>
+            <div class="col-lg-1 col-md-4 col-sm-6 mt-4 mx-auto">
+                <button class="btn btn-outline-dark rounded-3  w-100 " id="btn-Submit">Edit</button>
+            </div>
+            <div class="col-lg-1 col-md-4 col-sm-6 mt-4 mx-auto">
+              <button class="btn btn-outline-dark rounded-3  w-100 " id="btn-discard">Discard</button>
+          </div>
+        </form>
+    </div>  
+</section>
+  
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="./js/profile.js"></script>
+  </body>
+</html>
