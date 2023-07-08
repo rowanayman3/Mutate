@@ -6,7 +6,7 @@ for (var i = 0; i < addToCartButtons.length; i++) {
 
 // Function to handle adding item to the cart
 function addToCart(event) {
-event.preventDefault(); // Prevent the default link behavior
+// event.preventDefault(); // Prevent the default link behavior
 
 // Get the product details from the clicked element's parent container
 var productContainer = event.target.closest('.col-lg-4');
@@ -26,7 +26,7 @@ var cartItems = JSON.parse(localStorage.getItem('cartItems')) || [];
 
 // Add the new item to the cart items array
 cartItems.push(cartItem);
-
+alert("Item Added")
 // Store the updated cart items back in the local storage
 localStorage.setItem('cartItems', JSON.stringify(cartItems));
 
