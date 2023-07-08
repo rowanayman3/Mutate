@@ -26,9 +26,9 @@ namespace SuperMarket.Controllers
             return Ok(carts);
         }
 
-        // GET: api/carts/{id}
+        // GET: api/categories/{id}
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetCart(int id)
+        public async Task<IActionResult> GetCategory(int id)
         {
             var cart = await _context.Carts.FindAsync(id);
             if (cart == null)
@@ -40,20 +40,12 @@ namespace SuperMarket.Controllers
         // POST: api/carts
         [Authorize(Roles = "Admin")]
         [HttpPost]
-        public IActionResult CreateCart(Carts cart)
+        public async Task<IActionResult> CreateCategory(Carts cart)
         {
             _context.Carts.Add(cart);
-            cart.UserId = cart.UserId;
-            cart.ProductId = cart.ProductId;
-            cart.Price = cart.Price;
-            cart.Quantity = cart.Quantity;
-            cart.Status = cart.Status;
-            cart.Discount = cart.Discount;
-            cart.TotalPrice = cart.TotalPrice;
+            await _context.SaveChangesAsync();
 
-            _context.SaveChanges();
-
-            return CreatedAtAction(nameof(GetCart), new { id = cart.CartId }, cart);
+            return CreatedAtAction(nameof(GetCarts), new { id = cart.CartId }, cart);
         }
 
         // PUT: api/carts/{id}
@@ -62,25 +54,24 @@ namespace SuperMarket.Controllers
        
         public async Task<IActionResult> UpdateCart(int id, Carts updatedCart)
         {
-            var cart = _context.Carts.Find(id);
+            if (id != updatedCart.CartId)
+                return BadRequest();
 
-            if (cart == null)
+            _context.Entry(updatedCart).State = EntityState.Modified;
+
+            try
             {
-                return NotFound();
+                await _context.SaveChangesAsync();
             }
-            cart.UserId = updatedCart.UserId;
-            cart.ProductId = updatedCart.ProductId;
-            cart.Price = updatedCart.Price;
-            cart.Quantity = updatedCart.Quantity;
-            cart.Status = updatedCart.Status;
-            cart.Discount = updatedCart.Discount;
-            cart.TotalPrice = updatedCart.TotalPrice;
-
-
-            _context.SaveChanges();
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!CartExists(id))
+                    return NotFound();
+                else
+                    throw;
+            }
 
             return NoContent();
-
         }
 
 

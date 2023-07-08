@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LzB8MeeWTTn2Hjht2OIc8AxEGksP/UUwJhkvPMYsvYpzY3vdDz3w0CIfQNKl5h+fpGr6Qk6igWEtn2nboaMJKA==",
+  "dgSpecHash": "xA/ZoeTnkZ75QL6ImY+/gmioliLWNqpeg6Ghm2vPGzcqXTvDoymZ47i/hL7vWyXPx/57oRuacsvLLoytz+T9Ww==",
   "success": true,
-  "projectFilePath": "F:\\.NET backend course\\tests\\last\\last_external\\JWTRefreshToken.NET6.0\\final_external.csproj",
+  "projectFilePath": "G:\\test1\\Mutate-CMS\\backend\\last\\last_external\\JWTRefreshToken.NET6.0\\final_external.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hadye\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

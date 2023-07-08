@@ -6674,19 +6674,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hm250\\.nuget\\packages\\": {}
+    "C:\\Users\\hadye\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hm250\\source\\repos\\SuperMarket\\SuperMarket\\SuperMarket.csproj",
+      "projectUniqueName": "G:\\test1\\Mutate-CMS\\backend\\SuperMarket\\SuperMarket\\SuperMarket.csproj",
       "projectName": "SuperMarket",
-      "projectPath": "C:\\Users\\hm250\\source\\repos\\SuperMarket\\SuperMarket\\SuperMarket.csproj",
-      "packagesPath": "C:\\Users\\hm250\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hm250\\source\\repos\\SuperMarket\\SuperMarket\\obj\\",
+      "projectPath": "G:\\test1\\Mutate-CMS\\backend\\SuperMarket\\SuperMarket\\SuperMarket.csproj",
+      "packagesPath": "C:\\Users\\hadye\\.nuget\\packages\\",
+      "outputPath": "G:\\test1\\Mutate-CMS\\backend\\SuperMarket\\SuperMarket\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\hm250\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hadye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6694,7 +6699,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6751,7 +6755,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   },

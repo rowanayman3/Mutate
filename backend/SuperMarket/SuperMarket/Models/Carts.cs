@@ -1,6 +1,6 @@
 ﻿namespace SuperMarket.Models
 {
-    public class Cart
+    public class Carts
     {
         public int CartId { get; set; }
         public int UserId { get; set; }

@@ -39,38 +39,39 @@ namespace SuperMarket.Controllers
         }
 
         // POST: api/categories
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles ="Admin")]
         [HttpPost]
-        public async Task<IActionResult> CreateCategory(Categories category)
+        public IActionResult CreateCategory(Categories category)
         {
             _context.Categories.Add(category);
-            await _context.SaveChangesAsync();
+            category.CategoryName = category.CategoryName;
+            category.Description = category.Description;
+            category.Products = category.Products;
+
+
+            _context.SaveChanges();
 
             return CreatedAtAction(nameof(GetCategory), new { id = category.CategoryId }, category);
         }
 
+
         // PUT: api/categories/{id}
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles ="Admin")]
         [HttpPut("{id}")]
-       
-        public async Task<IActionResult> UpdateCategory(int id, Categories updatedCategory)
+        public IActionResult UpdateCategory(int id, Categories updatedCategory)
         {
-            if (id != updatedCategory.CategoryId)
-                return BadRequest();
+            var category = _context.Categories.Find(id);
 
-            _context.Entry(updatedCategory).State = EntityState.Modified;
+            if (category == null)
+            {
+                return NotFound();
+            }
 
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!CategoriesExists(id))
-                    return NotFound();
-                else
-                    throw;
-            }
+            category.CategoryName = updatedCategory.CategoryName;
+            category.Description = updatedCategory.Description;
+            category.Products = updatedCategory.Products;
+
+            _context.SaveChanges();
 
             return NoContent();
         }

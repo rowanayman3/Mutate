@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XDP6a1wERPoupGXWqCp5oAlL9yfSTc/d4F06ZfJhsSWtoK/YI33bF3s6L460tdohaZJvVjeQ8TZDuKGUN5VeEA==",
+  "dgSpecHash": "OJMgNnDWQAgq+XhFLfh9Fp/OXGg2IYSfCTvolJC0QcE4/3j1L0MynOx+weTbK4a/z8gGKtBzWk9lNbhj44YsBg==",
   "success": true,
-  "projectFilePath": "F:\\.NET backend course\\tests\\last\\SuperMarket\\SuperMarket\\SuperMarket.csproj",
+  "projectFilePath": "G:\\test1\\Mutate-CMS\\backend\\last\\SuperMarket\\SuperMarket\\SuperMarket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hadye\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",

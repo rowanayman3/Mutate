@@ -1,7 +1,9 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SuperMarket.Models;
+using System.Data;
 
 namespace SuperMarket.Controllers
 {
@@ -36,6 +38,7 @@ namespace SuperMarket.Controllers
         }
 
         // POST: api/products
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<IActionResult> CreateProduct(Products product)
         {
@@ -46,6 +49,7 @@ namespace SuperMarket.Controllers
         }
 
         // PUT: api/products/{id}
+        [Authorize(Roles = "Admin")]
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateProduct(int id, Products updatedProduct)
         {
@@ -70,6 +74,7 @@ namespace SuperMarket.Controllers
         }
 
         // DELETE: api/products/{id}
+        [Authorize(Roles = "Admin")]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteProduct(int id)
         {

@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using SuperMarket.Models;
+using System.Data;
 
 namespace SuperMarket.Controllers
 {
@@ -42,6 +44,7 @@ namespace SuperMarket.Controllers
         }
 
         // POST: api/users
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public IActionResult CreateUser(Users user)
         {
@@ -73,6 +76,7 @@ namespace SuperMarket.Controllers
         }
 
         // DELETE: api/users/{id}
+        [Authorize(Roles = "Admin")]
         [HttpDelete("{id}")]
         public IActionResult DeleteUser(int id)
         {

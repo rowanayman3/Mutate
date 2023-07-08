@@ -1,7 +1,9 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SuperMarket.Models;
+using System.Data;
 
 namespace SuperMarket.Controllers
 {
@@ -37,6 +39,7 @@ namespace SuperMarket.Controllers
         }
 
         // POST: api/categories
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<IActionResult> CreateCategory(Categories category)
         {
@@ -47,7 +50,9 @@ namespace SuperMarket.Controllers
         }
 
         // PUT: api/categories/{id}
+        [Authorize(Roles = "Admin")]
         [HttpPut("{id}")]
+       
         public async Task<IActionResult> UpdateCategory(int id, Categories updatedCategory)
         {
             if (id != updatedCategory.CategoryId)
@@ -72,7 +77,9 @@ namespace SuperMarket.Controllers
 
 
         // DELETE: api/categories/{id}
+        [Authorize(Roles = "Admin")]
         [HttpDelete("{id}")]
+        
         public async Task<IActionResult> DeleteCategory(int id)
         {
             var category = await _context.Categories.FindAsync(id);

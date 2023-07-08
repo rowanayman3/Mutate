@@ -38,37 +38,45 @@ namespace SuperMarket.Controllers
         }
 
         // POST: api/products
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles ="Admin")]
         [HttpPost]
-        public async Task<IActionResult> CreateProduct(Products product)
+        public IActionResult CreateProduct(Products products)
         {
-            _context.Products.Add(product);
-            await _context.SaveChangesAsync();
+            _context.Products.Add(products);
+            products.Name = products.Name;
+            products.Description = products.Description;
+            products.price = products.price;
+            products.quantity = products.quantity;
+            products.discount = products.discount;
+            products.TotalPrice = products.TotalPrice;
 
-            return CreatedAtAction(nameof(GetProduct), new { id = product.Id }, product);
+
+            _context.SaveChanges();
+
+            return CreatedAtAction(nameof(GetProduct), new { id = products.Id }, products);
         }
 
         // PUT: api/products/{id}
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles ="Admin")]
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateProduct(int id, Products updatedProduct)
+        public IActionResult UpdateProduct(int id, Products updatedProduct)
         {
-            if (id != updatedProduct.Id)
-                return BadRequest();
+            var product = _context.Products.Find(id);
 
-            _context.Entry(updatedProduct).State = EntityState.Modified;
+            if (product == null)
+            {
+                return NotFound();
+            }
 
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!ProductExists(id))
-                    return NotFound();
-                else
-                    throw;
-            }
+            product.Name = updatedProduct.Name;
+            product.Description = updatedProduct.Description;
+            product.price = updatedProduct.price;
+            product.quantity = updatedProduct.quantity;
+            product.discount = updatedProduct.discount;
+            product.TotalPrice = updatedProduct.TotalPrice;
+
+
+            _context.SaveChanges();
 
             return NoContent();
         }
