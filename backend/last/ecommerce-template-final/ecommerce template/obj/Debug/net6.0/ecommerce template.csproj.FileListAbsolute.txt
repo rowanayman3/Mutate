@@ -1,0 +1,38 @@
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\appsettings.json
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\ecommerce template.exe
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\ecommerce template.deps.json
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\ecommerce template.runtimeconfig.json
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\ecommerce template.dll
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\ecommerce template.pdb
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.csproj.AssemblyReference.cache
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.AssemblyInfoInputs.cache
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.AssemblyInfo.cs
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.csproj.CoreCompileInputs.cache
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\staticwebassets\msbuild.ecommerce template.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\staticwebassets\msbuild.build.ecommerce template.props
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ecommerce template.props
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ecommerce template.props
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\scopedcss\bundle\ecommerce template.styles.css
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.csproj.CopyComplete
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.dll
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\refint\ecommerce template.dll
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.pdb
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.genruntimeconfig.cache
+C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ref\ecommerce template.dll
