@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xA/ZoeTnkZ75QL6ImY+/gmioliLWNqpeg6Ghm2vPGzcqXTvDoymZ47i/hL7vWyXPx/57oRuacsvLLoytz+T9Ww==",
+  "dgSpecHash": "aNNdJISXTVj7FxntefrjPwNBxOt9hy7AIoHcN160J8mOFzfxFfz8j9e2hCrCKrrbxMb0/6b6TaSzpfeC23c/3g==",
   "success": true,
   "projectFilePath": "G:\\test1\\Mutate-CMS\\backend\\last\\last_external\\JWTRefreshToken.NET6.0\\final_external.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\hadye\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hadye\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\mimekit\\4.1.0\\mimekit.4.1.0.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",

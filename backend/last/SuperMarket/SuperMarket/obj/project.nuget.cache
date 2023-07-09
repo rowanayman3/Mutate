@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OJMgNnDWQAgq+XhFLfh9Fp/OXGg2IYSfCTvolJC0QcE4/3j1L0MynOx+weTbK4a/z8gGKtBzWk9lNbhj44YsBg==",
+  "dgSpecHash": "EKxcsgE3momU0m7Yn1tnlJFYyNGP/2VDQsTnHwMet0iuLkXq9BB9jlRN3JokMpn/RFjVGR4VW2uMxeU5cBZyow==",
   "success": true,
   "projectFilePath": "G:\\test1\\Mutate-CMS\\backend\\last\\SuperMarket\\SuperMarket\\SuperMarket.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\hadye\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hadye\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\hadye\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
