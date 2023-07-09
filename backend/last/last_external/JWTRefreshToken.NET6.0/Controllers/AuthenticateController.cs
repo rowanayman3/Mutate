@@ -103,7 +103,7 @@ namespace JWTRefreshToken.NET6._0.Controllers
             await _userManager.UpdateAsync(user1);
 
            
-            string verificationLink = $"https://example.com/verify?token={VerifyToken}";
+            string verificationLink = $"https://mutate.pro/verify?token={VerifyToken}";
             string emailBody = $"Please click the following link to verify your account:" +
                 $" <a href='{verificationLink}'>{verificationLink}</a>";
 
