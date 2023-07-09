@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\test1\\Mutate-CMS\\backend\\last\\last_external\\JWTRefreshToken.NET6.0\\final_external.csproj": {}
+    "F:\\G-Project\\Finaaaaaaaaal\\Mutate-CMS\\backend\\last\\last_external\\JWTRefreshToken.NET6.0\\final_external.csproj": {}
   },
   "projects": {
-    "G:\\test1\\Mutate-CMS\\backend\\last\\last_external\\JWTRefreshToken.NET6.0\\final_external.csproj": {
+    "F:\\G-Project\\Finaaaaaaaaal\\Mutate-CMS\\backend\\last\\last_external\\JWTRefreshToken.NET6.0\\final_external.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\test1\\Mutate-CMS\\backend\\last\\last_external\\JWTRefreshToken.NET6.0\\final_external.csproj",
+        "projectUniqueName": "F:\\G-Project\\Finaaaaaaaaal\\Mutate-CMS\\backend\\last\\last_external\\JWTRefreshToken.NET6.0\\final_external.csproj",
         "projectName": "final_external",
-        "projectPath": "G:\\test1\\Mutate-CMS\\backend\\last\\last_external\\JWTRefreshToken.NET6.0\\final_external.csproj",
-        "packagesPath": "C:\\Users\\hadye\\.nuget\\packages\\",
-        "outputPath": "G:\\test1\\Mutate-CMS\\backend\\last\\last_external\\JWTRefreshToken.NET6.0\\obj\\",
+        "projectPath": "F:\\G-Project\\Finaaaaaaaaal\\Mutate-CMS\\backend\\last\\last_external\\JWTRefreshToken.NET6.0\\final_external.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "F:\\G-Project\\Finaaaaaaaaal\\Mutate-CMS\\backend\\last\\last_external\\JWTRefreshToken.NET6.0\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hadye\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -94,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

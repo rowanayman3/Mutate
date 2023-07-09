@@ -1,4 +1,4 @@
-const baseURL = 'https://mutate.pro'
+const baseURL = 'https://localhost:44350/'
 
 
 $("#login").click(() => {
@@ -11,15 +11,15 @@ $("#login").click(() => {
     console.log({ data });
     axios({
         method: 'post',
-        url: `${baseURL}/auth/login`,
+        url: `${baseURL}/api/Authenticate/login`,
         data: data,
         headers: { 'Content-Type': 'application/json; charset=UTF-8' }
     }).then(function (response) {
         console.log({ response });
-        const { message, token } = response.data
-        if (message == "Done") {
+        const { title, token } = response.data
+        if (title === "") {
             localStorage.setItem('token', token);
-            window.location.href = 'crud.html';
+            window.location.href = '../admin/admin.html';
         } else {
             console.log("In-valid email or password");
             alert("In-valid email or password")
@@ -27,11 +27,6 @@ $("#login").click(() => {
     }).catch(function (error) {
         console.log(error);
     });
-
 })
 
-
-
-
-
-
+ 

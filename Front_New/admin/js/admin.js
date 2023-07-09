@@ -18,31 +18,59 @@ showButtons.forEach(function(button) {
     targetSection.style.display = "block";
   });
 });
+const localstorage = JSON.parse(localStorage.getItem('auth'));
 
+const users = [
+  { Id:1, name:'islam', userName: "user1", password: "123456", email:'user1@gmail.com' },
+  { Id:2, name:'Mohamed', userName: "user2", password: "123456", email:'user2@gmail.com' },
+  { Id:3, name:'Yassen', userName: "user3", password: "123456", email:'user3@gmail.com' },
+  { Id:4, name:'Hamada', userName: "user4", password: "123456", email:'user4@gmail.com' },
+  localstorage
+];
+
+const showUsers = () => {
+  const usersList = document.getElementById('usersList');
+  usersList.innerHTML = '';
+  console.log(localstorage)
+ 
+  users.forEach(user => {
+    const li = document.createElement('li');
+    li.innerHTML = `
+      <span>Name: ${user.name || user.userName}, Email: ${user.email}, Username: ${user.userName}</span>
+      <input type="text" id="nameInput-${user.Id}" value="${user.name}">
+      <input type="text" id="emailInput-${user.Id}" value="${user.email}">
+      <input type="text" id="usernameInput-${user.Id}" value="${user.userName}">
+      <button onclick="editUser(${user.Id})">Edit</button>
+    `;
+    usersList.appendChild(li);
+  });
+};
+
+showUsers()
 
 // Fetch and display all users
-function showUsers() {
-    fetch('api/users')
-      .then(response => response.json())
-      .then(users => {
-        const usersList = document.getElementById('usersList');
-        usersList.innerHTML = '';
-        users.forEach(user => {
-          const li = document.createElement('li');
-          li.innerHTML = `
-            <span>Name: ${user.Name}, Email: ${user.Email}, Username: ${user.Username}</span>
-            <input type="text" id="nameInput-${user.Id}" value="${user.Name}">
-            <input type="text" id="emailInput-${user.Id}" value="${user.Email}">
-            <input type="text" id="usernameInput-${user.Id}" value="${user.Username}">
-            <button onclick="editUser(${user.Id})">Edit</button>
-          `;
-          usersList.appendChild(li);
-        });
-      })
-      .catch(error => {
-        console.error('Error fetching users:', error);
-      });
-  }
+// function showUsers() {
+//     fetch('api/users')
+//       .then(response => response.json())
+//       .then(users => {
+//         const usersList = document.getElementById('usersList');
+//         usersList.innerHTML = '';
+//         users.forEach(user => {
+//           const li = document.createElement('li');
+//           li.innerHTML = `
+//             <span>Name: ${user.Name}, Email: ${user.Email}, Username: ${user.Username}</span>
+//             <input type="text" id="nameInput-${user.Id}" value="${user.Name}">
+//             <input type="text" id="emailInput-${user.Id}" value="${user.Email}">
+//             <input type="text" id="usernameInput-${user.Id}" value="${user.Username}">
+//             <button onclick="editUser(${user.Id})">Edit</button>
+//           `;
+//           usersList.appendChild(li);
+//         });
+//       })
+//       .catch(error => {
+//         console.error('Error fetching users:', error);
+//       });
+//   }
   // Edit user
 function editUser(userId) {
     const nameInput = document.getElementById(`nameInput-${userId}`);

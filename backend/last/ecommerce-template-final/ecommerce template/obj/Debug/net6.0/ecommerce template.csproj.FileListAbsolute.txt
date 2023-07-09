@@ -36,3 +36,36 @@ C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debu
 C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.pdb
 C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.genruntimeconfig.cache
 C:\Users\hm250\source\repos\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ref\ecommerce template.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\appsettings.Development.json
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\appsettings.json
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\ecommerce template.exe
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\ecommerce template.deps.json
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\ecommerce template.runtimeconfig.json
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\ecommerce template.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\ecommerce template.pdb
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.csproj.AssemblyReference.cache
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.GeneratedMSBuildEditorConfig.editorconfig
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.AssemblyInfoInputs.cache
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.AssemblyInfo.cs
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.csproj.CoreCompileInputs.cache
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.MvcApplicationPartsAssemblyInfo.cs
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.MvcApplicationPartsAssemblyInfo.cache
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\staticwebassets.build.json
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\staticwebassets.development.json
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\scopedcss\bundle\ecommerce template.styles.css
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.csproj.CopyComplete
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\refint\ecommerce template.dll
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.pdb
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ecommerce template.genruntimeconfig.cache
+F:\G-Project\Finaaaaaaaaal\Mutate-CMS\backend\last\ecommerce-template-final\ecommerce template\obj\Debug\net6.0\ref\ecommerce template.dll
